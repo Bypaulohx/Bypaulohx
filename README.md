@@ -53,6 +53,13 @@ Meu objetivo na tecnologia é contribuir para o desenvolvimento de ferramentas q
 <br/>
 
 ### 📊 Estatísticas
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=Bypaulohx&show_icons=true&theme=tokyonight&include_all_commits=true&local=pt-br" 
+/>
 
 <img 
   align="left" 
