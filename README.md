@@ -23,6 +23,13 @@ Meu objetivo na tecnologia é contribuir para o desenvolvimento de ferramentas q
       src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
+    <a href="https://www.behance.net/sixdesignbr" target="_blank">
+    <img 
+      alt="Behance" 
+      title="Visite meu Behance" 
+      src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
