@@ -73,5 +73,5 @@ Meu objetivo na tecnologia é contribuir para o desenvolvimento de ferramentas q
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bypaulohx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bypaulohx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
 />
