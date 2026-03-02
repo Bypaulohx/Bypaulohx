@@ -30,6 +30,13 @@ Meu objetivo na tecnologia é contribuir para o desenvolvimento de ferramentas q
       src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white"
     />
   </a>
+  <a href="https://www.linkedin.com/in/bypaulohx" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
